@@ -1,0 +1,2 @@
+# Multi-resource
+terraform code
